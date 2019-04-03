@@ -1,0 +1,16 @@
+.btn-action {
+    width: 50%;
+    border-radius: 0;
+}
+
+.btn-action.right {
+    float: right;
+}
+
+.selection-row {
+    background-color: lightgray;
+}
+
+.header-text {
+    text-align: center;
+}

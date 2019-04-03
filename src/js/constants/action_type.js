@@ -1,0 +1,5 @@
+export const ADD_CONTACT = "ADD_CONTACT";
+export const SHOW_CONTACT = "SHOW_CONTACT";
+export const CHANGE_CONTACT = "CHANGE_CONTACT";
+export const UPDATE_CONTACT = "UPDATE_CONTACT";
+
